@@ -1,0 +1,7 @@
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\bin\Debug\MyPeeps.exe.config
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\bin\Debug\MyPeeps.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\bin\Debug\MyPeeps.pdb
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.csprojAssemblyReference.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.exe
+\\mi\dfs\users\LChang\Desktop\Assessment 3\MyPeeps\MyPeeps\obj\Debug\MyPeeps.pdb
